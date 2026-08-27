@@ -1,0 +1,3 @@
+name: NFL Team Schedule
+description: Display the next three games for any NFL team with configurable timezone support.
+author: Nathan Bolda
