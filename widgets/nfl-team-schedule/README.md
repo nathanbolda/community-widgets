@@ -17,6 +17,11 @@ Displays the next three upcoming games for any NFL team, including:
 Schedule data is provided by ESPN.
 
 ---
+# Preview
+
+<img width="874" height="688" alt="CleanShot 2026-08-27 at 14 45 20@2x" src="https://github.com/user-attachments/assets/bd9c8e4d-a02d-4c07-b90e-8d7566706698" />
+
+---
 
 ## Configuration
 
